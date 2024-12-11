@@ -32,15 +32,15 @@ Foi feita a elaboração de cada planilha para colocar as "ideias no papel" e a 
 
 Este gráfico apresenta o Índice de Satisfação do Cliente, permitindo ao gerente avaliar a percepção dos clientes em relação aos atendimentos realizados pelos agentes no mês selecionado.
 
-<img src="https://github.com/user-attachments/assets/412799fe-0eed-41a4-b298-195180695b66" width="350" /> 
-
+<img src="https://github.com/user-attachments/assets/412799fe-0eed-41a4-b298-195180695b66" width="350" />
+</p>
 
 - <ins>Call Volume During Week</ins>
 
 Este gráfico informa o volume de chamadas em cada dia da semana no mês selecionado. Ele é essencial para oferecer uma visão geral e estratégica sobre a distribuição do fluxo de chamadas.
 
-<img src="https://github.com/user-attachments/assets/3db1a609-c30a-41bb-a454-f5b62db882cb" width="700" /> 
-
+<img src="https://github.com/user-attachments/assets/3db1a609-c30a-41bb-a454-f5b62db882cb" width="700" />
+</p>
 
 - <ins>Resolution Rate</ins>
 
@@ -58,22 +58,22 @@ Este gráfico informa a média de duração das chamadas no mês selecionado, au
 
 Este painel fornece uma visão detalhada do Índice de Resolução de Chamadas por agente, permitindo ao gerente avaliar o desempenho individual e realizar comparações entre os agentes.
 
-<img src="https://github.com/user-attachments/assets/753fd26e-5d66-4ce2-a55d-532d2eb88150" width="350" /> 
-
+<img src="https://github.com/user-attachments/assets/753fd26e-5d66-4ce2-a55d-532d2eb88150" width="350" />
+</p>
 
 - <ins>Resolved Calls by Agent</ins>
 
 Este índice apresenta o número de chamadas resolvidas por cada agente, facilitando a comparação direta entre eles.
 
-<img src="https://github.com/user-attachments/assets/87d3e78d-843b-4983-9ffc-59d9bd764a99" width="350" /> 
-
+<img src="https://github.com/user-attachments/assets/87d3e78d-843b-4983-9ffc-59d9bd764a99" width="350" />
+</p>
 
 - <ins>Speed of Answer by Agent</ins>
 
 Nesta tabela, o gerente pode avaliar a velocidade média de atendimento de cada agente, fornecendo mais um indicador para análise de desempenho.
 
-<img src="https://github.com/user-attachments/assets/b54dea1b-1443-4b12-aa69-d735d866a3b6" width="350" /> 
-
+<img src="https://github.com/user-attachments/assets/b54dea1b-1443-4b12-aa69-d735d866a3b6" width="350" />
+</p>
 
 - <ins>Destaques Visuais e Regras de Cores</ins>
 
@@ -81,7 +81,7 @@ Nas tabelas voltadas para a avaliação de agentes, os indicadores são destacad
 
 Além disso, os painéis são integrados de forma interativa, permitindo que o gerente selecione um agente específico ao clicar sobre ele e visualize todos os indicadores relacionados exclusivamente a esse agente. A mesma funcionalidade está disponível para dias da semana e índices de satisfação, oferecendo uma análise mais detalhada e personalizada.
 
-### DASHBOARD
+- <ins>Dashboard</ins>
 
 <img width="1269" alt="3" src="https://github.com/user-attachments/assets/42697f40-30ac-4ea6-a3e1-8395d1b44617"> 
 
