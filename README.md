@@ -1,7 +1,7 @@
 # Call-Center-KPI
 Um gerente no Call Center (Help Desk) quer um painel de KPI Mensal para acompanhar performance do time.
 
-[Dashboard Call Center KPI (Tableau Public)]([https://pages.github.com/](https://brunobravo.carrd.co/#projeto1:~:text=HELP%20DESK)%20%2D%20KPI-,Dashboard%20Call%20Center%20(Help%20Desk)%20%2D%20KPI%20(Tableau%20Public),-Este%20painel%20faz))
+[Dashboard Call Center KPI (Tableau Public)](https://public.tableau.com/app/profile/bruno.bravo/viz/CallCenterHelpDesk-KPI/Painel1)
 
 Este painel faz parte de um projeto realizado a partir de dados disponibilizados pela plataforma AnalystBuilder do Alex e tem como principal objetivo trabalhar os dados e apresenta-los no Tableau de forma a atender o seguinte contexto:
 
@@ -85,7 +85,7 @@ Além disso, os painéis são integrados de forma interativa, permitindo que o g
 
 <img width="1269" alt="3" src="https://github.com/user-attachments/assets/42697f40-30ac-4ea6-a3e1-8395d1b44617"> 
 
-Acesse o dashboard no formato de apresentação no seguinte link: [Dashboard Call Center KPI (Tableau Public)]([https://pages.github.com/](https://brunobravo.carrd.co/#projeto1:~:text=HELP%20DESK)%20%2D%20KPI-,Dashboard%20Call%20Center%20(Help%20Desk)%20%2D%20KPI%20(Tableau%20Public),-Este%20painel%20faz))
+Acesse o dashboard no formato de apresentação no seguinte link: [Dashboard Call Center KPI (Tableau Public)](https://public.tableau.com/app/profile/bruno.bravo/viz/CallCenterHelpDesk-KPI/Painel1)
 
 ## Pontos Observados
 
