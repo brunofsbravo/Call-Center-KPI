@@ -5,13 +5,13 @@ Um gerente no Call Center (Help Desk) quer um painel de KPI Mensal para acompanh
 
 Este painel faz parte de um projeto realizado a partir de dados disponibilizados pela plataforma AnalystBuilder do Alex e tem como principal objetivo trabalhar os dados e apresenta-los no Tableau de forma a atender o seguinte contexto:
 
-Um gerente no Call Center (Help Desk) quer um Painel de KPI Mensal (KPI do último mês e para usar nos meses seguintes);
+1. Um gerente no Call Center (Help Desk) quer um Painel de KPI Mensal (KPI do último mês e para usar nos meses seguintes);
 
-Ele quer acompanhar o desempenho de seus funcionários, assim como algumas informações gerais sobre as chamadas;
+2. Ele quer acompanhar o desempenho de seus funcionários, assim como algumas informações gerais sobre as chamadas;
 
-Nosso objetivo é criar um painel para fornecer informações úteis sobre esses dados, mas ele não tem certeza exata do que deseja;
+3. Nosso objetivo é criar um painel para fornecer informações úteis sobre esses dados, mas ele não tem certeza exata do que deseja;
 
-A ideia é primeiro criar um painel, buscar um feedback e começar a melhorar a partir daí.
+4. A ideia é primeiro criar um painel, apresentar ao gestor para um feeback e fazer as alterações conforme solicitado.
 
 A fonte de dados disponibilizada, em Excel, tinha a seguinte estrutura:
 
